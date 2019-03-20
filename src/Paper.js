@@ -46,7 +46,7 @@ class App extends Component {
             </Grid>
             <Grid item md={4}>
               <Button variant="outlined" onClick={this.props.onAddDıffArray}>
-                Change Array Structure
+                Change Array Structure.
               </Button>
             </Grid>
 
